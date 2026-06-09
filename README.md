@@ -61,6 +61,7 @@ This custom exception is used when the withdrawal amount is greater than the ava
 
 # How to Run the Project
 **1. Install Java JDK**
+
 Make sure Java JDK is installed on your system.
 
 Check Java version:
@@ -74,12 +75,14 @@ Check Java compiler:
 javac -version
 ```
 **2. Compile the Java File**
+
 Open terminal in the project folder and run:
 
 ```bash
 javac ATMSimulation.java
 ```
 **3. Run the Project**
+
 ```bash
 java ATMSimulation
 ```
